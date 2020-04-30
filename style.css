@@ -1,0 +1,23 @@
+/*
+ Theme Name:   WZ Child
+ Description:  A child theme of WZ Core by WalnutZtudio
+ Author:       WalnutZtudio
+ Template:     wzcore
+ Version:      1.0.0
+*/
+
+/* CSS For Mobile < 992px and All */
+
+/* End Mobile */
+
+/* CSS For Mobile force < 400px */
+@media (max-width: 400px) {
+}
+
+/* CSS For Tablet > 992px */
+@media (min-width: 992px) {
+}
+
+/* CSS for Desktop > 1200px */
+@media (min-width: 1200px) {
+}
