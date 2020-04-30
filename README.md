@@ -1,2 +1,3 @@
-# wz-child
- Child Theme by WalnutZtudio
+# WZ-child
+
+Child Theme by WalnutZtudio
